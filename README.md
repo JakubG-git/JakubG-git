@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm a student at AGH University and my major is ISI
+## I'm currently learning Python
+
+
 
 <!--
 **JakubG-git/JakubG-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
