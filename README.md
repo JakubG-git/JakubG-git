@@ -2,6 +2,7 @@
 I'm a student at AGH University and my major is ISI
 ## I'm currently learning Python
 
+https://jakubg-git.github.io/
 
 
 <!--
