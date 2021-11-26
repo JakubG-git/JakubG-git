@@ -2,7 +2,10 @@
 I'm a student at AGH University and my major is ISI
 ## I'm currently learning Python
 
+# Sites
 https://jakubg-git.github.io/
+
+https://red-flower-00bc67603.azurestaticapps.net/
 
 
 <!--
