@@ -7,6 +7,10 @@ https://jakubg-git.github.io/
 
 https://red-flower-00bc67603.azurestaticapps.net/
 
+## Link do repozytorium z forka
+
+https://github.com/pushpendughosh/Stock-market-forecasting
+
 
 <!--
 **JakubG-git/JakubG-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
