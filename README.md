@@ -1,5 +1,12 @@
 # Hi there 👋
-I'm a student at AGH University and my major is ISI
+I'm a student of Computer Science and Intelligent Systems at [AGH University of Technology](https://www.agh.edu.pl/en).
+Currently looking for internship.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=JakubG-git&hide_title=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubG-git&hide_title=true&theme=radical" />
+</a>
 <!--
 **JakubG-git/JakubG-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
