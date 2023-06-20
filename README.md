@@ -1,6 +1,5 @@
 # Hi there 👋
 I'm a student of Computer Science and Intelligent Systems at [AGH University of Technology](https://www.agh.edu.pl/en).
-Currently looking for internship.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats-3zj6.vercel.app/api?username=JakubG-git&hide_title=true&show_icons=true&theme=radical" />
 </a>
